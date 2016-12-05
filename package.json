@@ -13,6 +13,7 @@
   "main": "index.js",
   "dependencies": {
     "eventemitter3": "1.x.x",
+    "follow-redirects": "git://github.com/jtbonhomme/follow-redirects.git#fix-host",
     "requires-port": "1.x.x"
   },
   "devDependencies": {
